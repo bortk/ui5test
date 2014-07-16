@@ -1,0 +1,12 @@
+{
+  "generation": {
+    "templateName": "Empty SAPUI5 Mobile App Project",
+    "templateVersion": "1.0.1",
+    "dateTimeStamp": "Wed, 16 Jul 2014 14:30:09 GMT"
+  },
+  "translation": {
+    "translationDomain": "",
+    "supportedLanguages": "en,fr,de",
+    "defaultLanguage": "en"
+  }
+}
