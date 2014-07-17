@@ -1,0 +1,5 @@
+# Ignore Eclipse project and settings files
+test.txt
+#folder
+target/
+
